@@ -52,6 +52,6 @@ const tagStore = {
   }
 };
 
-tagStore.fetchTags();
+// tagStore.fetchTags();
 
 export default tagStore;
